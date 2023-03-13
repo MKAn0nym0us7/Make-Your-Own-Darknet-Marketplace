@@ -63,6 +63,12 @@ RFX-Networks
 https://www.rfxn.com/
 
 
+Hidden Service Cookbook
+
+
+http://kw4zlnfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion/product/hidden-service-cookbook/
+
+
 Madaidens Insecurities
 
 
